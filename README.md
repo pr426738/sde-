@@ -34,9 +34,6 @@ Steps
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/your-username/irctc-reservation-api.git
-cd irctc-reservation-api
 Install dependencies:
 
 bash
