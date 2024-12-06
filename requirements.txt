@@ -1,0 +1,6 @@
+Flask
+SQLAlchemy
+psycopg2
+Flask-SQLAlchemy
+Werkzeug
+PyJWT
